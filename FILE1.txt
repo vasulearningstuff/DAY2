@@ -1,1 +1,2 @@
 This is my first file 
+git config --global init. defaultBranch main
